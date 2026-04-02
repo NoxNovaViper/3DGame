@@ -3,6 +3,9 @@
 #include "world/ChunkManager.h"
 #include "core/Shader.h"
 #include "core/FlatShader.h"
+#include "world/Terrain.h"
+#include "world/WorldRenderer.h"
+#include "graphics/Shader.h"
 #include "world/Chunk.h"
 #include <glm/gtc/matrix_transform.hpp>
 #include <iostream>
