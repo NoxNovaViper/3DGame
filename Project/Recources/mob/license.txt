@@ -1,0 +1,11 @@
+Model Information:
+* title:	Illfang the Kobold Lord
+* source:	https://sketchfab.com/3d-models/illfang-the-kobold-lord-b69337cdb66843c1b67b50d4d6f14b11
+* author:	Killer O (https://sketchfab.com/KillerOz1)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Illfang the Kobold Lord" (https://sketchfab.com/3d-models/illfang-the-kobold-lord-b69337cdb66843c1b67b50d4d6f14b11) by Killer O (https://sketchfab.com/KillerOz1) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
