@@ -1,0 +1,11 @@
+Model Information:
+* title:	Elucidator v2
+* source:	https://sketchfab.com/3d-models/elucidator-v2-3315adaee2db466095082f6672f81a23
+* author:	Icarus (https://sketchfab.com/SAOISREAL)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Elucidator v2" (https://sketchfab.com/3d-models/elucidator-v2-3315adaee2db466095082f6672f81a23) by Icarus (https://sketchfab.com/SAOISREAL) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
