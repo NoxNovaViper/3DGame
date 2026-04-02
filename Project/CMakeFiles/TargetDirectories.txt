@@ -1,0 +1,3 @@
+C:/Users/HP/Downloads/mcoriject/CMakeFiles/SAO_Aincrad.dir
+C:/Users/HP/Downloads/mcoriject/CMakeFiles/edit_cache.dir
+C:/Users/HP/Downloads/mcoriject/CMakeFiles/rebuild_cache.dir
